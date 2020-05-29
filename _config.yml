@@ -1,0 +1,24 @@
+title: 鄒老師文理補習班
+#email:              tsoubernie@gmail.com
+description:        我們關心每位同學的課業與發展
+author:             Bernie T
+baseurl:            ""
+url:                ""
+
+# Social Profiles
+#twitter_username:   AABBCC
+#github_username:    CCDDEE
+facebook_username: MPM-鄒老師文理補習班-358796494701559/
+#linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
